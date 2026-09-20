@@ -1,0 +1,28 @@
+'''
+numberbetween1and100
+Author: Jessica Larsen
+Version: 1.0
+Date: 9/19/2026
+'''
+
+from random import randint
+
+#initialization
+numToGuess = randint(1,100)
+userGuess = 0
+
+#get data
+userGuess = int(float(input("Please enter a number 1 - 100: ")))
+
+#process data
+while numToGuess != userGuess:
+    userGuess = int(input("Please enter a number between 1 - 100"))
+    
+        if userGuess > numToGuess:
+            print("Your guess is too high, try again: ")
+        else:
+            print("Your guess is too low, try again: ")
+    
+    #output information 
+    print("You win, congratulations!")
+    print("\nThank you for playing!")
