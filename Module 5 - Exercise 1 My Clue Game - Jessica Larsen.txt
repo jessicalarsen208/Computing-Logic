@@ -1,0 +1,34 @@
+//Planning for Clue Game
+divide cards into three stacks: suspects, weapons, and rooms
+shuffle the three piles seperately
+take the top card from each pile without looking and place it in the Confidential Case File
+Now shuffle the remaining cards together thoroughly
+now divide the remaining cards evenly into two piles of 9
+One pile is the player's(me), one pile is the computer's
+
+player/computer rolls dice
+if player/computer enough to move to the room they want to
+	they move to that room, and continue with their turn and guessing
+else they move a little bit and their turn ends
+
+player makes a guess of who committed the crime, guessing one suspect, weapon and room (e.g. I think it was Scarlet in the Garage with the Candlestick)
+if computer has the a card(s) that matches one of those guessed
+	computer shows one of the cards to player
+else 
+	computer communicates that it does not have any of those cards
+
+computer makes a guess of who committed the crime, guessing one suspect, weapon and room
+if player has the a card(s) that matches one of those guessed
+	player shows one of the cards to player
+else 
+	player communicates that it does not have any of those cards
+
+as gameplay continues player and computer make guesses based on what they have already
+it turns into a battle of not only luck but also strategy and wits as they try to bluff with one another and show repeat cards to the other as much as they can
+
+eventually either player or computer thinks they know what cards are in the Confidential Case File
+Player or computer will then guess out loud what cards they think are in there
+if player or computer is correct
+	they win
+else 
+	they loose and the other one wins

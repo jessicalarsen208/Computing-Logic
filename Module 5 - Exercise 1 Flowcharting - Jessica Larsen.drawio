@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="D3UB-lJN7HzcDJNLP2Uc">
+    <mxGraphModel dx="915" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-4" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="start" vertex="1">
+          <mxGeometry height="80" width="120" x="353" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-6" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="divide cards into three stacks&lt;div&gt;Shuffle the three piles separately&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;take the top card from each pile without looking and place it in the Confidential Case File&lt;/div&gt;&lt;div&gt;Now shuffle the remaining cards together thoroughly&lt;/div&gt;&lt;div&gt;now divide the remaining cards evenly into two piles of 9&lt;/div&gt;&lt;div&gt;One pile is the player&#39;s(me), one pile is the computer&#39;s&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="534" x="150" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-8" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-9" connectable="0" parent="ie1WcVFrnBfB_hxlbGud-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.0349" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-11" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-12" connectable="0" parent="ie1WcVFrnBfB_hxlbGud-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="no" vertex="1">
+          <mxGeometry relative="1" x="-0.0891" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-23" connectable="0" parent="ie1WcVFrnBfB_hxlbGud-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1004" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;player/computer rolls dice&lt;/div&gt;&lt;div&gt;&lt;div&gt;if player/computer rolled high enough to move to the room they want to&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="191.5" x="321.25" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-20" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-7" parent="1" style="whiteSpace=wrap;html=1;" value="computer/player move to that room" vertex="1">
+          <mxGeometry height="100" width="206" x="580" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-10" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;else computer/player moves a little bit and their turn ends&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="100" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-25" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-28" connectable="0" parent="ie1WcVFrnBfB_hxlbGud-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.1468" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-27" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-29" connectable="0" parent="ie1WcVFrnBfB_hxlbGud-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.0281" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-36" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;if computer/player has the a card(s) that matches one of those guessed&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="143" x="611.5" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-21" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-19" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;player/computer makes a guess of who committed the crime, guessing one suspect, weapon and room (e.g. I think it was Scarlet in the Garage with the Candlestick)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="284.5" x="543" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-34" edge="1" parent="1" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="1075" />
+              <mxPoint x="1080" y="620" />
+            </Array>
+            <mxPoint x="1006" y="1075" as="sourcePoint" />
+            <mxPoint x="420" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-24" parent="1" style="whiteSpace=wrap;html=1;" value="computer/player shows one of the cards to computer/player" vertex="1">
+          <mxGeometry height="60" width="120" x="886" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-26" parent="1" style="whiteSpace=wrap;html=1;" value="computer/player does not show the computer/player any cards" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-38" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-35" parent="1" style="whiteSpace=wrap;html=1;" value="As gameplay continues, player and computers make guesses based on what they have already it turns into a battle of not only luck but also strategy and wits as they try to bluff with one another and show repeat cards to the other as much as they can" vertex="1">
+          <mxGeometry height="130" width="347.37" x="511.56" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-44" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-37" parent="1" style="whiteSpace=wrap;html=1;" value="eventually either player or computer thinks they know what cards are in the Confidential Case FilePlayer or computer will then guess out loud what cards they think are in there" vertex="1">
+          <mxGeometry height="80" width="347.37" x="512.75" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-46" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-47" connectable="0" parent="ie1WcVFrnBfB_hxlbGud-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2696" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-49" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;if player/computer is correct in their final guess&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="163.57" x="604.65" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-51" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="ie1WcVFrnBfB_hxlbGud-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-45" parent="1" style="whiteSpace=wrap;html=1;" value="they win" vertex="1">
+          <mxGeometry height="60" width="120" x="910.005" y="1575" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-54" edge="1" parent="1" source="ie1WcVFrnBfB_hxlbGud-48" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ie1WcVFrnBfB_hxlbGud-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="402.86" y="1840" />
+            </Array>
+            <mxPoint x="880" y="1850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-48" parent="1" style="whiteSpace=wrap;html=1;" value="Guesser looses and other one wins by default" vertex="1">
+          <mxGeometry height="60" width="120" x="342.865" y="1575" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1WcVFrnBfB_hxlbGud-50" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;end&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="143" x="900" y="1800" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
